@@ -1,2 +1,2 @@
-# Apple-Replica
-My first attempt to clone a website using html and css. This is not a responsive website.
+# Apple-Website-Replica
+I tried to replicate Apples website, as a beginning part to learn html and css, Website is not responsive. 
